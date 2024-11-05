@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TranquiloHub</string>
+    <string name="exercise_text1">
+        Learning the right breathing techniques can
+        help you feel more connected to your body
+        by bringing awareness away from the worries
+        in your head
+    </string>
+    <string name="exercise_text2">
+        If you force your mind back to breathing, you
+        are missing out on the whole point of
+        meditation: <b>self-acceptance</b> and achieving
+        a higher level of <b>consciousness</b>.
+    </string>
+</resources>
